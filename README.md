@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ImaginativeShohag/ImaginativeShohag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Assalamu Aalaikum, Peace to You!
 
-Here are some ideas to get you started:
+**I'm a Learner, App Developer, Blogger, Coder and 🐧 Lover.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working in **Android/Kotlin** 🚀
+
+Interested in **Flutter/Dart** ✨
+
+## 😎 Notable Repositories:
+
+- [Oops! No Internet!](https://github.com/ImaginativeShohag/Oops-No-Internet)
+- [Why Not! Image Carousel!](https://github.com/ImaginativeShohag/Why-Not-Image-Carousel)
+- [Simple MVVM](https://github.com/ImaginativeShohag/Simple-MVVM)
