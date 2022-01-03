@@ -4,9 +4,7 @@
 
 **I'm a Learner, App Developer, Blogger, Coder and Linux 🐧 Lover.**
 
-Currently working in **Android/Kotlin** 🚀
-
-Interested in **Flutter/Dart** ✨
+Currently working in **Android/Kotlin** with **Jetpack Compose** 🚀
 
 ## 😎 Notable Repositories:
 
