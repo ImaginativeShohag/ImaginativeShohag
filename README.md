@@ -4,7 +4,7 @@
 
 **I'm a Learner, App Developer, Blogger, Coder and Linux 🐧 Lover.**
 
-Currently working in **Android/Kotlin** with **Jetpack Compose** 🚀
+Currently working in **Android/Kotlin** with **Jetpack Compose** ⚡ and **iOS** with **SwiftUI** 🚀
 
 ## 😎 Notable Repositories:
 
