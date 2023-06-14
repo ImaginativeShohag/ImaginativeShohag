@@ -6,7 +6,7 @@
 
 Currently working in **Android/Kotlin** with **Jetpack Compose** ⚡ and **iOS** with **SwiftUI** 🚀
 
-![GitHub User's stars](https://img.shields.io/github/stars/ImaginativeShohag?style=social)
+[![GitHub User's stars](https://img.shields.io/github/stars/ImaginativeShohag?label=github%20stars)](https://github.com/ImaginativeShohag)
 [![Stack Overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/2263329)](https://stackoverflow.com/users/2263329)
 
 ## 😎 Notable Repositories:
