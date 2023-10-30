@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### Assalamu Aalaikum, Peace to You!
+**Assalamu Aalaikum, Peace to You!**
 
-**I'm a Learner, App Developer, Blogger, Coder and Linux 🐧 Lover.**
+**I'm a Learner, App Developer, Blogger, Coder, and Linux 🐧 Lover.**
 
 Currently working in **Android/Kotlin** with **Jetpack Compose** ⚡ and **iOS** with **SwiftUI** 🚀
 
