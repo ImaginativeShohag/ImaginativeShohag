@@ -10,6 +10,8 @@ Currently working in **Android/Kotlin** with **Jetpack Compose** ⚡ and **iOS**
 [![Stack Overflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/2263329)](https://stackoverflow.com/users/2263329)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/MahmudulHasanShohag/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shohag_iw)](https://twitter.com/shohag_iw)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/848920)](https://mastodon.social/@shohag)
+[![Bluesky Follow](https://img.shields.io/badge/Follow%20%40imaginativeshohag-white.svg?style=social&logo=Bluesky&logoColor=0285FF)](https://bsky.app/profile/imaginativeshohag.bsky.social)
 
 ![ImaginativeShohag's Stats](https://github-readme-stats.vercel.app/api?username=ImaginativeShohag&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
